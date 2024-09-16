@@ -1,7 +1,7 @@
 # Personal Web Development Project: YouTube Homepage Recreation
 Developed a static version of the YouTube homepage using HTML and CSS. This project demonstrates proficiency in front-end web development and design.
 
-# Key Features:
+## Key Features:
 Responsive Design: Ensured the layout adapts to different screen sizes and devices.
 Custom Styling: Replicated YouTube's design elements including navigation bar, video thumbnails, and content layout.
 Cross-Browser Compatibility: Verified the design’s consistency across multiple web browsers.

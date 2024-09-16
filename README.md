@@ -1,4 +1,4 @@
-# Personal Web Development Project: YouTube Homepage Recreation
+
 Developed a static version of the YouTube homepage using HTML and CSS. This project demonstrates proficiency in front-end web development and design.
 
 ## Key Features:
